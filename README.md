@@ -1,2 +1,1 @@
-# terraform-repo
-code for terraform
+This repository is for Infra developers.
